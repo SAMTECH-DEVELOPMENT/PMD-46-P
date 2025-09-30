@@ -4,56 +4,150 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dddc2fb1-9c57-416a-8def-d631e20c8197" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kinash_Stepan/lab1/CollegeHubKinash/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Kinash/lab1/CollegeHubKinash/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kinash_Stepan/lab1/CollegeHubKinash/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Kinash/lab1/CollegeHubKinash/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kinash_Stepan/lab1/CollegeHubKinash/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/Kinash/lab1/CollegeHubKinash/.idea/.name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kinash_Stepan/lab1/CollegeHubKinash/.idea/AndroidProjectSystem.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Kinash/lab1/CollegeHubKinash/.idea/AndroidProjectSystem.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kinash_Stepan/lab1/CollegeHubKinash/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Kinash/lab1/CollegeHubKinash/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kinash_Stepan/lab1/CollegeHubKinash/.idea/deploymentTargetSelector.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Kinash/lab1/CollegeHubKinash/.idea/deploymentTargetSelector.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kinash_Stepan/lab1/CollegeHubKinash/.idea/deviceManager.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Kinash/lab1/CollegeHubKinash/.idea/deviceManager.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kinash_Stepan/lab1/CollegeHubKinash/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Kinash/lab1/CollegeHubKinash/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kinash_Stepan/lab1/CollegeHubKinash/.idea/migrations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Kinash/lab1/CollegeHubKinash/.idea/migrations.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kinash_Stepan/lab1/CollegeHubKinash/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Kinash/lab1/CollegeHubKinash/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kinash_Stepan/lab1/CollegeHubKinash/.idea/runConfigurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Kinash/lab1/CollegeHubKinash/.idea/runConfigurations.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kinash_Stepan/lab1/CollegeHubKinash/app/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Kinash/lab1/CollegeHubKinash/app/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kinash_Stepan/lab1/CollegeHubKinash/app/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/Kinash/lab1/CollegeHubKinash/app/build.gradle.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kinash_Stepan/lab1/CollegeHubKinash/app/proguard-rules.pro" beforeDir="false" afterPath="$PROJECT_DIR$/Kinash/lab1/CollegeHubKinash/app/proguard-rules.pro" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kinash_Stepan/lab1/CollegeHubKinash/app/src/androidTest/java/ua/saceit/collegehub/kinash/ExampleInstrumentedTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Kinash/lab1/CollegeHubKinash/app/src/androidTest/java/ua/saceit/collegehub/kinash/ExampleInstrumentedTest.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kinash_Stepan/lab1/CollegeHubKinash/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Kinash/lab1/CollegeHubKinash/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kinash_Stepan/lab1/CollegeHubKinash/app/src/main/java/ua/saceit/collegehub/kinash/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Kinash/lab1/CollegeHubKinash/app/src/main/java/ua/saceit/collegehub/kinash/MainActivity.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kinash_Stepan/lab1/CollegeHubKinash/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Kinash/lab1/CollegeHubKinash/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kinash_Stepan/lab1/CollegeHubKinash/app/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Kinash/lab1/CollegeHubKinash/app/src/main/res/drawable/ic_launcher_foreground.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kinash_Stepan/lab1/CollegeHubKinash/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Kinash/lab1/CollegeHubKinash/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kinash_Stepan/lab1/CollegeHubKinash/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Kinash/lab1/CollegeHubKinash/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kinash_Stepan/lab1/CollegeHubKinash/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Kinash/lab1/CollegeHubKinash/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kinash_Stepan/lab1/CollegeHubKinash/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" afterPath="$PROJECT_DIR$/Kinash/lab1/CollegeHubKinash/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kinash_Stepan/lab1/CollegeHubKinash/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" afterPath="$PROJECT_DIR$/Kinash/lab1/CollegeHubKinash/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kinash_Stepan/lab1/CollegeHubKinash/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" afterPath="$PROJECT_DIR$/Kinash/lab1/CollegeHubKinash/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kinash_Stepan/lab1/CollegeHubKinash/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" afterPath="$PROJECT_DIR$/Kinash/lab1/CollegeHubKinash/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kinash_Stepan/lab1/CollegeHubKinash/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" afterPath="$PROJECT_DIR$/Kinash/lab1/CollegeHubKinash/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kinash_Stepan/lab1/CollegeHubKinash/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" afterPath="$PROJECT_DIR$/Kinash/lab1/CollegeHubKinash/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kinash_Stepan/lab1/CollegeHubKinash/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" afterPath="$PROJECT_DIR$/Kinash/lab1/CollegeHubKinash/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kinash_Stepan/lab1/CollegeHubKinash/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" afterPath="$PROJECT_DIR$/Kinash/lab1/CollegeHubKinash/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kinash_Stepan/lab1/CollegeHubKinash/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" afterPath="$PROJECT_DIR$/Kinash/lab1/CollegeHubKinash/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kinash_Stepan/lab1/CollegeHubKinash/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" afterPath="$PROJECT_DIR$/Kinash/lab1/CollegeHubKinash/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kinash_Stepan/lab1/CollegeHubKinash/app/src/main/res/values-night/themes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Kinash/lab1/CollegeHubKinash/app/src/main/res/values-night/themes.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kinash_Stepan/lab1/CollegeHubKinash/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Kinash/lab1/CollegeHubKinash/app/src/main/res/values/colors.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kinash_Stepan/lab1/CollegeHubKinash/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Kinash/lab1/CollegeHubKinash/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kinash_Stepan/lab1/CollegeHubKinash/app/src/main/res/values/themes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Kinash/lab1/CollegeHubKinash/app/src/main/res/values/themes.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kinash_Stepan/lab1/CollegeHubKinash/app/src/main/res/xml/backup_rules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Kinash/lab1/CollegeHubKinash/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kinash_Stepan/lab1/CollegeHubKinash/app/src/main/res/xml/data_extraction_rules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Kinash/lab1/CollegeHubKinash/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kinash_Stepan/lab1/CollegeHubKinash/app/src/test/java/ua/saceit/collegehub/kinash/ExampleUnitTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Kinash/lab1/CollegeHubKinash/app/src/test/java/ua/saceit/collegehub/kinash/ExampleUnitTest.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kinash_Stepan/lab1/CollegeHubKinash/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/Kinash/lab1/CollegeHubKinash/build.gradle.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kinash_Stepan/lab1/CollegeHubKinash/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Kinash/lab1/CollegeHubKinash/gradle.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kinash_Stepan/lab1/CollegeHubKinash/gradle/libs.versions.toml" beforeDir="false" afterPath="$PROJECT_DIR$/Kinash/lab1/CollegeHubKinash/gradle/libs.versions.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kinash_Stepan/lab1/CollegeHubKinash/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Kinash/lab1/CollegeHubKinash/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kinash_Stepan/lab1/CollegeHubKinash/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Kinash/lab1/CollegeHubKinash/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kinash_Stepan/lab1/CollegeHubKinash/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/Kinash/lab1/CollegeHubKinash/gradlew" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kinash_Stepan/lab1/CollegeHubKinash/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/Kinash/lab1/CollegeHubKinash/gradlew.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kinash_Stepan/lab1/CollegeHubKinash/settings.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/Kinash/lab1/CollegeHubKinash/settings.gradle.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kinash_Stepan/lab1/docs/lab1-hello-kinash.png" beforeDir="false" afterPath="$PROJECT_DIR$/Kinash/lab1/docs/lab1-hello-kinash.png" afterDir="false" />
+    <list default="true" id="dddc2fb1-9c57-416a-8def-d631e20c8197" name="Changes" comment="feat(lab2): add KotlinBasics project with variables, operators and loops">
+      <change beforePath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bereskyi/test.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ferens/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Karhut/lab1/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Karhut/lab1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Karhut/lab1/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Karhut/lab1/.idea/AndroidProjectSystem.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Karhut/lab1/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Karhut/lab1/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Karhut/lab1/.idea/migrations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Karhut/lab1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Karhut/lab1/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Karhut/lab1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Karhut/lab1/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Karhut/lab1/app/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Karhut/lab1/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Karhut/lab1/app/src/androidTest/java/ua/saceit/collegehub/Karhut/ExampleInstrumentedTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Karhut/lab1/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Karhut/lab1/app/src/main/java/ua/saceit/collegehub/Karhut/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Karhut/lab1/app/src/main/java/ua/saceit/collegehub/Karhut/ui/theme/Color.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Karhut/lab1/app/src/main/java/ua/saceit/collegehub/Karhut/ui/theme/Theme.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Karhut/lab1/app/src/main/java/ua/saceit/collegehub/Karhut/ui/theme/Type.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Karhut/lab1/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Karhut/lab1/app/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Karhut/lab1/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Karhut/lab1/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Karhut/lab1/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Karhut/lab1/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Karhut/lab1/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Karhut/lab1/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Karhut/lab1/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Karhut/lab1/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Karhut/lab1/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Karhut/lab1/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Karhut/lab1/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Karhut/lab1/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Karhut/lab1/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Karhut/lab1/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Karhut/lab1/app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Karhut/lab1/app/src/main/res/xml/backup_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Karhut/lab1/app/src/main/res/xml/data_extraction_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Karhut/lab1/app/src/test/java/ua/saceit/collegehub/Karhut/ExampleUnitTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Karhut/lab1/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Karhut/lab1/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Karhut/lab1/gradle/libs.versions.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Karhut/lab1/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Karhut/lab1/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Karhut/lab1/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Karhut/lab1/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Karhut/lab1/settings.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matsan/lab1/.idea/libraries/Gradle__androidx_activity_activity_1_10_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matsan/lab1/.idea/libraries/Gradle__androidx_activity_activity_compose_1_10_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matsan/lab1/.idea/libraries/Gradle__androidx_activity_activity_ktx_1_10_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matsan/lab1/.idea/libraries/Gradle__androidx_annotation_annotation_experimental_1_4_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matsan/lab1/.idea/libraries/Gradle__androidx_annotation_annotation_jvm_1_9_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matsan/lab1/.idea/libraries/Gradle__androidx_arch_core_core_common_2_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matsan/lab1/.idea/libraries/Gradle__androidx_collection_collection_jvm_1_5_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matsan/lab1/.idea/libraries/Gradle__androidx_compose_animation_animation_android_1_7_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matsan/lab1/.idea/libraries/Gradle__androidx_compose_animation_animation_core_android_1_7_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matsan/lab1/.idea/libraries/Gradle__androidx_compose_foundation_foundation_android_1_7_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matsan/lab1/.idea/libraries/Gradle__androidx_compose_foundation_foundation_layout_android_1_7_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matsan/lab1/.idea/libraries/Gradle__androidx_compose_material3_material3_android_1_3_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matsan/lab1/.idea/libraries/Gradle__androidx_compose_material_material_icons_core_android_1_7_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matsan/lab1/.idea/libraries/Gradle__androidx_compose_material_material_ripple_android_1_7_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matsan/lab1/.idea/libraries/Gradle__androidx_compose_runtime_runtime_android_1_9_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matsan/lab1/.idea/libraries/Gradle__androidx_compose_runtime_runtime_annotation_android_1_9_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matsan/lab1/.idea/libraries/Gradle__androidx_compose_runtime_runtime_saveable_android_1_9_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matsan/lab1/.idea/libraries/Gradle__androidx_compose_ui_ui_android_1_7_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matsan/lab1/.idea/libraries/Gradle__androidx_compose_ui_ui_geometry_android_1_7_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matsan/lab1/.idea/libraries/Gradle__androidx_compose_ui_ui_graphics_android_1_7_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matsan/lab1/.idea/libraries/Gradle__androidx_compose_ui_ui_test_android_1_7_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matsan/lab1/.idea/libraries/Gradle__androidx_compose_ui_ui_test_junit4_android_1_7_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matsan/lab1/.idea/libraries/Gradle__androidx_compose_ui_ui_test_manifest_1_7_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matsan/lab1/.idea/libraries/Gradle__androidx_compose_ui_ui_text_android_1_7_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matsan/lab1/.idea/libraries/Gradle__androidx_compose_ui_ui_tooling_android_1_7_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matsan/lab1/.idea/libraries/Gradle__androidx_compose_ui_ui_tooling_data_android_1_7_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matsan/lab1/.idea/libraries/Gradle__androidx_compose_ui_ui_tooling_preview_android_1_7_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matsan/lab1/.idea/libraries/Gradle__androidx_compose_ui_ui_unit_android_1_7_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matsan/lab1/.idea/libraries/Gradle__androidx_compose_ui_ui_util_android_1_7_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matsan/lab1/.idea/libraries/Gradle__androidx_concurrent_concurrent_futures_1_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matsan/lab1/.idea/libraries/Gradle__androidx_concurrent_concurrent_futures_ktx_1_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matsan/lab1/.idea/libraries/Gradle__androidx_core_core_1_17_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matsan/lab1/.idea/libraries/Gradle__androidx_core_core_ktx_1_17_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matsan/lab1/.idea/libraries/Gradle__androidx_core_core_viewtree_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matsan/lab1/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_common_jvm_2_9_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matsan/lab1/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_core_2_9_3_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matsan/lab1/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_runtime_android_2_9_3_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matsan/lab1/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_runtime_compose_android_2_9_3_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matsan/lab1/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_runtime_ktx_android_2_9_3_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matsan/lab1/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_android_2_9_3_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matsan/lab1/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_ktx_2_9_3_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matsan/lab1/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_savedstate_android_2_9_3_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matsan/lab1/.idea/libraries/Gradle__androidx_savedstate_savedstate_android_1_3_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matsan/lab1/.idea/libraries/Gradle__androidx_savedstate_savedstate_compose_android_1_3_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matsan/lab1/.idea/libraries/Gradle__androidx_savedstate_savedstate_ktx_1_3_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matsan/lab1/.idea/libraries/Gradle__androidx_test_core_1_7_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matsan/lab1/.idea/libraries/Gradle__androidx_test_espresso_espresso_core_3_7_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matsan/lab1/.idea/libraries/Gradle__androidx_test_espresso_espresso_idling_resource_3_7_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matsan/lab1/.idea/libraries/Gradle__androidx_test_ext_junit_1_3_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matsan/lab1/.idea/libraries/Gradle__androidx_test_monitor_1_8_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matsan/lab1/.idea/libraries/Gradle__androidx_test_runner_1_7_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matsan/lab1/.idea/libraries/Gradle__androidx_test_services_storage_1_6_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matsan/lab1/.idea/libraries/Gradle__androidx_tracing_tracing_1_2_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matsan/lab1/.idea/libraries/Gradle__androidx_versionedparcelable_versionedparcelable_1_1_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matsan/lab1/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_3_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matsan/lab1/.idea/libraries/Gradle__com_google_errorprone_error_prone_annotations_2_30_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matsan/lab1/.idea/libraries/Gradle__com_google_guava_listenablefuture_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matsan/lab1/.idea/libraries/Gradle__javax_inject_javax_inject_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matsan/lab1/.idea/libraries/Gradle__junit_junit_4_13_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matsan/lab1/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matsan/lab1/.idea/libraries/Gradle__org_hamcrest_hamcrest_library_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matsan/lab1/.idea/libraries/Gradle__org_jetbrains_annotations_23_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matsan/lab1/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_2_0_21.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matsan/lab1/.idea/libraries/Gradle__org_jetbrains_kotlinx_kotlinx_coroutines_android_1_8_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matsan/lab1/.idea/libraries/Gradle__org_jetbrains_kotlinx_kotlinx_coroutines_core_jvm_1_8_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matsan/lab1/.idea/libraries/Gradle__org_jetbrains_kotlinx_kotlinx_coroutines_test_jvm_1_8_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matsan/lab1/.idea/libraries/Gradle__org_jetbrains_kotlinx_kotlinx_serialization_core_jvm_1_7_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matsan/lab1/.idea/libraries/Gradle__org_jspecify_jspecify_1_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matsan/lab1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matsan/lab1/.idea/modules/CollegeHub-Matsan.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matsan/lab1/.idea/modules/app/CollegeHub-Matsan.app.androidTest.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matsan/lab1/.idea/modules/app/CollegeHub-Matsan.app.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matsan/lab1/.idea/modules/app/CollegeHub-Matsan.app.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matsan/lab1/.idea/modules/app/CollegeHub-Matsan.app.unitTest.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matsan/lab1/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matsan/lab1/Matsan/.gradle/8.13/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matsan/lab1/Matsan/.gradle/8.13/checksums/md5-checksums.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matsan/lab1/Matsan/.gradle/8.13/checksums/sha1-checksums.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matsan/lab1/Matsan/.gradle/8.13/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matsan/lab1/Matsan/.gradle/8.13/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matsan/lab1/Matsan/.gradle/8.13/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matsan/lab1/Matsan/.gradle/8.13/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matsan/lab1/Matsan/.gradle/8.13/fileHashes/resourceHashesCache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matsan/lab1/Matsan/.gradle/8.13/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matsan/lab1/Matsan/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matsan/lab1/Matsan/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matsan/lab1/Matsan/.gradle/config.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matsan/lab1/Matsan/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matsan/lab1/Matsan/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matsan/lab1/Matsan/local.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Lab1/Test.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Lab2/Test.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +158,17 @@
     <option name="formatViaClangd" value="false" />
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="feature/lab2-Kinash" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -72,12 +177,25 @@
     &quot;assignee&quot;: &quot;StepanKinash&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/StepanKinash/PMD-46-P.git",
-    "accountId": "5f258c94-7b73-4e85-b511-d5539abb54d9"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/StepanKinash/PMD-46-P.git&quot;,
+    &quot;accountId&quot;: &quot;5f258c94-7b73-4e85-b511-d5539abb54d9&quot;
+  },
+  &quot;recentNewPullRequestHead&quot;: {
+    &quot;server&quot;: {
+      &quot;useHttp&quot;: false,
+      &quot;host&quot;: &quot;github.com&quot;,
+      &quot;port&quot;: null,
+      &quot;suffix&quot;: null
+    },
+    &quot;owner&quot;: &quot;StepanKinash&quot;,
+    &quot;repository&quot;: &quot;PMD-46-P&quot;
   }
-}]]></component>
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -90,12 +208,13 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.readMode.enableVisualFormatting": "true",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
-    "git-widget-placeholder": "feature/lab1-Kinash",
+    "git-widget-placeholder": "feature/lab3-Kinash",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Users/StepanKinash/Rep/PMD-46-P",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
@@ -109,6 +228,36 @@
       <option name="presentableId" value="Default" />
       <updated>1759212206619</updated>
     </task>
+    <task id="LOCAL-00001" summary="feat(lab1): add CollegeHub-Kinash project and hello screen">
+      <option name="closed" value="true" />
+      <created>1759214500213</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1759214500213</updated>
+    </task>
+    <task id="LOCAL-00002" summary="feat(lab1): add CollegeHub-Kinash project and hello screen">
+      <option name="closed" value="true" />
+      <created>1759214511298</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1759214511298</updated>
+    </task>
+    <task id="LOCAL-00003" summary="feat(lab2): add KotlinBasics project with variables, operators and loops">
+      <option name="closed" value="true" />
+      <created>1759389109897</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1759389109897</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat(lab1): add CollegeHub-Kinash project and hello screen" />
+    <MESSAGE value="feat(lab2): add KotlinBasics project with variables, operators and loops" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat(lab2): add KotlinBasics project with variables, operators and loops" />
   </component>
 </project>
