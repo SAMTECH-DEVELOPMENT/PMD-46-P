@@ -4,56 +4,35 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dddc2fb1-9c57-416a-8def-d631e20c8197" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kinash_Stepan/lab1/CollegeHubKinash/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Kinash/lab1/CollegeHubKinash/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kinash_Stepan/lab1/CollegeHubKinash/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Kinash/lab1/CollegeHubKinash/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kinash_Stepan/lab1/CollegeHubKinash/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/Kinash/lab1/CollegeHubKinash/.idea/.name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kinash_Stepan/lab1/CollegeHubKinash/.idea/AndroidProjectSystem.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Kinash/lab1/CollegeHubKinash/.idea/AndroidProjectSystem.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kinash_Stepan/lab1/CollegeHubKinash/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Kinash/lab1/CollegeHubKinash/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kinash_Stepan/lab1/CollegeHubKinash/.idea/deploymentTargetSelector.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Kinash/lab1/CollegeHubKinash/.idea/deploymentTargetSelector.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kinash_Stepan/lab1/CollegeHubKinash/.idea/deviceManager.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Kinash/lab1/CollegeHubKinash/.idea/deviceManager.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kinash_Stepan/lab1/CollegeHubKinash/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Kinash/lab1/CollegeHubKinash/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kinash_Stepan/lab1/CollegeHubKinash/.idea/migrations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Kinash/lab1/CollegeHubKinash/.idea/migrations.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kinash_Stepan/lab1/CollegeHubKinash/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Kinash/lab1/CollegeHubKinash/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kinash_Stepan/lab1/CollegeHubKinash/.idea/runConfigurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Kinash/lab1/CollegeHubKinash/.idea/runConfigurations.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kinash_Stepan/lab1/CollegeHubKinash/app/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Kinash/lab1/CollegeHubKinash/app/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kinash_Stepan/lab1/CollegeHubKinash/app/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/Kinash/lab1/CollegeHubKinash/app/build.gradle.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kinash_Stepan/lab1/CollegeHubKinash/app/proguard-rules.pro" beforeDir="false" afterPath="$PROJECT_DIR$/Kinash/lab1/CollegeHubKinash/app/proguard-rules.pro" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kinash_Stepan/lab1/CollegeHubKinash/app/src/androidTest/java/ua/saceit/collegehub/kinash/ExampleInstrumentedTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Kinash/lab1/CollegeHubKinash/app/src/androidTest/java/ua/saceit/collegehub/kinash/ExampleInstrumentedTest.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kinash_Stepan/lab1/CollegeHubKinash/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Kinash/lab1/CollegeHubKinash/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kinash_Stepan/lab1/CollegeHubKinash/app/src/main/java/ua/saceit/collegehub/kinash/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Kinash/lab1/CollegeHubKinash/app/src/main/java/ua/saceit/collegehub/kinash/MainActivity.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kinash_Stepan/lab1/CollegeHubKinash/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Kinash/lab1/CollegeHubKinash/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kinash_Stepan/lab1/CollegeHubKinash/app/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Kinash/lab1/CollegeHubKinash/app/src/main/res/drawable/ic_launcher_foreground.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kinash_Stepan/lab1/CollegeHubKinash/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Kinash/lab1/CollegeHubKinash/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kinash_Stepan/lab1/CollegeHubKinash/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Kinash/lab1/CollegeHubKinash/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kinash_Stepan/lab1/CollegeHubKinash/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Kinash/lab1/CollegeHubKinash/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kinash_Stepan/lab1/CollegeHubKinash/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" afterPath="$PROJECT_DIR$/Kinash/lab1/CollegeHubKinash/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kinash_Stepan/lab1/CollegeHubKinash/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" afterPath="$PROJECT_DIR$/Kinash/lab1/CollegeHubKinash/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kinash_Stepan/lab1/CollegeHubKinash/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" afterPath="$PROJECT_DIR$/Kinash/lab1/CollegeHubKinash/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kinash_Stepan/lab1/CollegeHubKinash/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" afterPath="$PROJECT_DIR$/Kinash/lab1/CollegeHubKinash/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kinash_Stepan/lab1/CollegeHubKinash/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" afterPath="$PROJECT_DIR$/Kinash/lab1/CollegeHubKinash/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kinash_Stepan/lab1/CollegeHubKinash/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" afterPath="$PROJECT_DIR$/Kinash/lab1/CollegeHubKinash/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kinash_Stepan/lab1/CollegeHubKinash/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" afterPath="$PROJECT_DIR$/Kinash/lab1/CollegeHubKinash/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kinash_Stepan/lab1/CollegeHubKinash/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" afterPath="$PROJECT_DIR$/Kinash/lab1/CollegeHubKinash/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kinash_Stepan/lab1/CollegeHubKinash/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" afterPath="$PROJECT_DIR$/Kinash/lab1/CollegeHubKinash/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kinash_Stepan/lab1/CollegeHubKinash/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" afterPath="$PROJECT_DIR$/Kinash/lab1/CollegeHubKinash/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kinash_Stepan/lab1/CollegeHubKinash/app/src/main/res/values-night/themes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Kinash/lab1/CollegeHubKinash/app/src/main/res/values-night/themes.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kinash_Stepan/lab1/CollegeHubKinash/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Kinash/lab1/CollegeHubKinash/app/src/main/res/values/colors.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kinash_Stepan/lab1/CollegeHubKinash/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Kinash/lab1/CollegeHubKinash/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kinash_Stepan/lab1/CollegeHubKinash/app/src/main/res/values/themes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Kinash/lab1/CollegeHubKinash/app/src/main/res/values/themes.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kinash_Stepan/lab1/CollegeHubKinash/app/src/main/res/xml/backup_rules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Kinash/lab1/CollegeHubKinash/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kinash_Stepan/lab1/CollegeHubKinash/app/src/main/res/xml/data_extraction_rules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Kinash/lab1/CollegeHubKinash/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kinash_Stepan/lab1/CollegeHubKinash/app/src/test/java/ua/saceit/collegehub/kinash/ExampleUnitTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Kinash/lab1/CollegeHubKinash/app/src/test/java/ua/saceit/collegehub/kinash/ExampleUnitTest.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kinash_Stepan/lab1/CollegeHubKinash/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/Kinash/lab1/CollegeHubKinash/build.gradle.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kinash_Stepan/lab1/CollegeHubKinash/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Kinash/lab1/CollegeHubKinash/gradle.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kinash_Stepan/lab1/CollegeHubKinash/gradle/libs.versions.toml" beforeDir="false" afterPath="$PROJECT_DIR$/Kinash/lab1/CollegeHubKinash/gradle/libs.versions.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kinash_Stepan/lab1/CollegeHubKinash/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Kinash/lab1/CollegeHubKinash/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kinash_Stepan/lab1/CollegeHubKinash/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Kinash/lab1/CollegeHubKinash/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kinash_Stepan/lab1/CollegeHubKinash/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/Kinash/lab1/CollegeHubKinash/gradlew" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kinash_Stepan/lab1/CollegeHubKinash/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/Kinash/lab1/CollegeHubKinash/gradlew.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kinash_Stepan/lab1/CollegeHubKinash/settings.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/Kinash/lab1/CollegeHubKinash/settings.gradle.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kinash_Stepan/lab1/docs/lab1-hello-kinash.png" beforeDir="false" afterPath="$PROJECT_DIR$/Kinash/lab1/docs/lab1-hello-kinash.png" afterDir="false" />
+    <list default="true" id="dddc2fb1-9c57-416a-8def-d631e20c8197" name="Changes" comment="feat(lab1): add CollegeHub-Kinash project and hello screen">
+      <change afterPath="$PROJECT_DIR$/Kinash/lab2/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kinash/lab2/app/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kinash/lab2/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kinash/lab2/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kinash/lab2/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kinash/lab2/app/src/main/res/drawable/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kinash/lab2/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kinash/lab2/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kinash/lab2/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kinash/lab2/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kinash/lab2/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kinash/lab2/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kinash/lab2/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kinash/lab2/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kinash/lab2/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kinash/lab2/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kinash/lab2/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kinash/lab2/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kinash/lab2/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kinash/lab2/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kinash/lab2/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kinash/lab2/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kinash/lab2/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kinash/lab2/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kinash/lab2/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kinash/lab2/gradle/libs.versions.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,12 +51,25 @@
     &quot;assignee&quot;: &quot;StepanKinash&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/StepanKinash/PMD-46-P.git",
-    "accountId": "5f258c94-7b73-4e85-b511-d5539abb54d9"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/StepanKinash/PMD-46-P.git&quot;,
+    &quot;accountId&quot;: &quot;5f258c94-7b73-4e85-b511-d5539abb54d9&quot;
+  },
+  &quot;recentNewPullRequestHead&quot;: {
+    &quot;server&quot;: {
+      &quot;useHttp&quot;: false,
+      &quot;host&quot;: &quot;github.com&quot;,
+      &quot;port&quot;: null,
+      &quot;suffix&quot;: null
+    },
+    &quot;owner&quot;: &quot;StepanKinash&quot;,
+    &quot;repository&quot;: &quot;PMD-46-P&quot;
   }
-}]]></component>
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -90,12 +82,13 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.readMode.enableVisualFormatting": "true",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
-    "git-widget-placeholder": "feature/lab1-Kinash",
+    "git-widget-placeholder": "feature/lab2-Kinash",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Users/StepanKinash/Rep/PMD-46-P",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
@@ -109,6 +102,27 @@
       <option name="presentableId" value="Default" />
       <updated>1759212206619</updated>
     </task>
+    <task id="LOCAL-00001" summary="feat(lab1): add CollegeHub-Kinash project and hello screen">
+      <option name="closed" value="true" />
+      <created>1759214500213</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1759214500213</updated>
+    </task>
+    <task id="LOCAL-00002" summary="feat(lab1): add CollegeHub-Kinash project and hello screen">
+      <option name="closed" value="true" />
+      <created>1759214511298</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1759214511298</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat(lab1): add CollegeHub-Kinash project and hello screen" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat(lab1): add CollegeHub-Kinash project and hello screen" />
   </component>
 </project>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <EditText
+        android:id="@+id/inputX"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Введіть x"
+        android:inputType="numberDecimal" />
+
+    <EditText
+        android:id="@+id/inputY"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Введіть y"
+        android:inputType="numberDecimal" />
+
+    <EditText
+        android:id="@+id/inputB"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Введіть b"
+        android:inputType="numberDecimal" />
+
+    <Button
+        android:id="@+id/calcButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Обчислити" />
+
+    <TextView
+        android:id="@+id/resultText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Результат буде тут"
+        android:textSize="18sp"
+        android:paddingTop="16dp"/>
+</LinearLayout>
